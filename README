@@ -1,0 +1,5 @@
+Go to www/sources
+make clean
+make
+run ./server 8888
+Go to the browser and enter the website locahost:8888
